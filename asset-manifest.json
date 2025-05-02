@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/air-monitoring-web/static/css/main.bd30b1d6.css",
-    "main.js": "/air-monitoring-web/static/js/main.b5b49e6b.js",
+    "main.js": "/air-monitoring-web/static/js/main.feb035ff.js",
     "static/js/453.d48b0bdd.chunk.js": "/air-monitoring-web/static/js/453.d48b0bdd.chunk.js",
     "index.html": "/air-monitoring-web/index.html",
     "main.bd30b1d6.css.map": "/air-monitoring-web/static/css/main.bd30b1d6.css.map",
-    "main.b5b49e6b.js.map": "/air-monitoring-web/static/js/main.b5b49e6b.js.map",
+    "main.feb035ff.js.map": "/air-monitoring-web/static/js/main.feb035ff.js.map",
     "453.d48b0bdd.chunk.js.map": "/air-monitoring-web/static/js/453.d48b0bdd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bd30b1d6.css",
-    "static/js/main.b5b49e6b.js"
+    "static/js/main.feb035ff.js"
   ]
 }
