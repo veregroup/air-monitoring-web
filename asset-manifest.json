@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/air-monitoring-web/static/css/main.b5d0ff88.css",
-    "main.js": "/air-monitoring-web/static/js/main.b2cf7493.js",
+    "main.css": "/air-monitoring-web/static/css/main.cc94d352.css",
+    "main.js": "/air-monitoring-web/static/js/main.37932e5f.js",
     "static/js/453.d48b0bdd.chunk.js": "/air-monitoring-web/static/js/453.d48b0bdd.chunk.js",
+    "static/media/AhonPalanan.png": "/air-monitoring-web/static/media/AhonPalanan.7158df865adb3a34eba8.png",
     "index.html": "/air-monitoring-web/index.html",
-    "main.b5d0ff88.css.map": "/air-monitoring-web/static/css/main.b5d0ff88.css.map",
-    "main.b2cf7493.js.map": "/air-monitoring-web/static/js/main.b2cf7493.js.map",
+    "main.cc94d352.css.map": "/air-monitoring-web/static/css/main.cc94d352.css.map",
+    "main.37932e5f.js.map": "/air-monitoring-web/static/js/main.37932e5f.js.map",
     "453.d48b0bdd.chunk.js.map": "/air-monitoring-web/static/js/453.d48b0bdd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5d0ff88.css",
-    "static/js/main.b2cf7493.js"
+    "static/css/main.cc94d352.css",
+    "static/js/main.37932e5f.js"
   ]
 }
