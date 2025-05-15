@@ -146,7 +146,7 @@ function Home() {
       minHeight: '100vh',
     }}>
       <h1 style={{ fontSize: '2.5em', textAlign: 'center', marginBottom: '20px' }}>
-        {getGreeting()}, Welcome to Air Quality Monitor!
+        {getGreeting()}, Palanan Air Quality Monitoring
       </h1>
 
       {/* Hidden original AQI section */}
